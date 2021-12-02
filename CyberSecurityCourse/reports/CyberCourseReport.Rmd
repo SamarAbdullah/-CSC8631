@@ -651,6 +651,8 @@ In terms of the business goal, we can say that as the course progresses, the amo
 ## 8.2 Review Process & Next Steps
 The project as a whole looked at ways to improve interaction and opted to do so based on quiz results. This does not, however, justify the course's interaction, as there are additional video stats, for example. Further examinations into the other data presented would be required to gain a complete understanding of the course interaction. Furthermore, instead of forming assumptions about the course, a meeting with the course administrators should be scheduled to acquire more knowledge. Overall, the study was a success in terms of uncovering certain correlations that provided answers to the business problems. Future research in this subject could examine into why run one was so much more successful with quiz question responses.
 
+## 9 References
+Martinez, I., Viles, E., & Olaizola, I. G. (2021). Data Science Methodologies: Current Challenges and Future Approaches. Big Data Research, 24, 100183.
 
 
 
